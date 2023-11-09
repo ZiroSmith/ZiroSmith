@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="[https://img.shields.io/badge/HedHunter?style=for-the-badge&logo=hh&logoColor=white"](https://i-dev.hh.ru/images/articles/apps01.png) alt="HedHunter Badge"/>
+    <img src="https://img.shields.io/badge/HedHunter?style=for-the-badge&logo=hh&logoColor=white" alt="HedHunter Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте Badge"/>
