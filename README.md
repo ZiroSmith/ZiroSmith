@@ -14,6 +14,9 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/littleenglishh" target="_blank">Andrey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### :man_technologist: Обо мне:
 
