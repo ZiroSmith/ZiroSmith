@@ -11,7 +11,8 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Andrey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Andrey</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 ### :man_technologist: Обо мне:
 
