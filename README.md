@@ -3,18 +3,6 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://vk.com/littleenglishh" target="_blank">Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://vk.com/littleenglishh">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте Badge"/>
-  </a>
-</div>
-
 ### :man_technologist: Обо мне: 
 
 Привет! Меня зовут Андрей и я frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Я начал заниматься разработкой веб-интерфейсов в 2022г. с прохождения курса Яндекс.Практикум. Там я заинтересовался темой и с этого момента меня затянуло в увлекательный мир ИТ - и кажется обратного пути уже нет :) Было много учебных и комерческих проектов, в которых я принимал активное участие, часть из них есть в этом профиле. Сейчас я покоряю вершины неизвестного для меня стека и нахожусь в поиске работы или интеренсой стажировки, так что напиши мне - возможно нам очень даже по пути, потому что:
