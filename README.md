@@ -13,7 +13,7 @@
   <a href="mailto:mr.kizilow77@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="ttps://t.me/littleenglishh">
+  <a href="https://t.me/littleenglishh">
     <img src="https://img.shields.io/badge/Телеграмм-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Телеграмм Badge"/>
   </a>
 </div>
