@@ -26,7 +26,7 @@
 
 В команде могу работать как самостоятельная единица. Многое знаю, чего не знаю - найду, что не найду - грамотно спрошу у коллег. Умею работать в коллективе и продолжаю профессионально развиваться.
 
-Моё хобби - сборка и ремонт компьютерной техники, так что шутки про "почини, тыж программист" в моём случае не шутки <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyNzA1MzEsIm5iZiI6MTcxMTI3MDIzMSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI0VDA4NTAzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxMGQwZmY5MmE1MzRlYzEwMjQ1YjZiYmQyZmQ2ZDBjOWI0ZDc3ZDllZjdlM2ZmNGJjNjNmNzI5ZGQ0MDE0NzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VYaHCBhQr1Q0_mNCuQxzoiT2LM9pVtlz-EsYLy-IvBg" width="30px">
+Моё хобби - сборка и ремонт компьютерной техники, так что шутки про "почини, тыж программист" в моём случае не шутки :)
 
 
 ---
