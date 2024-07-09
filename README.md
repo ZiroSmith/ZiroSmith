@@ -15,7 +15,7 @@
   </a>
   <a href="https://t.me/littleenglishh">
     <img src="https://img.shields.io/badge/Телеграмм-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Телеграмм Badge"/>
-  </a>
+  </a> 
 </div>
 
 ### :man_technologist: Обо мне: 
