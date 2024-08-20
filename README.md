@@ -7,7 +7,7 @@
   <!--<a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
-  <a href="https://vk.com/littleenglishh">
+  <a href="https://vk.com/littleenglishh"> 
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте Badge"/>
   </a>
   <a href="mailto:mr.kizilow77@gmail.com">
